@@ -55,5 +55,11 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/repo-name.git
    cd repo-name
+2. **Install the required dependencies:**
+   ```bash
+   pip install -r requirements.txt
+3. **Change paths**
+4. **run run_app.py file**
+
 
 
