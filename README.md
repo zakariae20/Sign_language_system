@@ -1,6 +1,6 @@
 # Real-Time Sign Language Translation System
 
-<img src="https://github.com/user-attachments/assets/159035cf-63b9-4c68-b921-7b4e4846b426" alt="welcome1" width="400"/>
+<img src="https://github.com/user-attachments/assets/159035cf-63b9-4c68-b921-7b4e4846b426" alt="welcome" width="400"/>
 
 ## Overview
 
@@ -11,6 +11,9 @@ In virtual environments, communication barriers exist for individuals who rely o
 This system recognizes sign language gestures and translates them into spoken or written language in real-time, enhancing accessibility and enabling inclusive communication within the metaverse. Users who rely on sign language can now fully engage and participate in virtual interactions.
 
 ## Project Path
+<img [src="https://github.com/user-attachments/assets/159035cf-63b9-4c68-b921-7b4e4846b426](https://github.com/user-attachments/assets/390a0fe9-7845-4c19-861b-89992df4eb29)" alt="project_path" width="500"/>
+
+
 
 ### 1. **Image Collection**
 - **Description**: Capturing frames from real-time video using a camera ensures that the dataset is tailored to the specific requirements of our system.
