@@ -1,5 +1,5 @@
 # Real-Time Sign Language Translation System
-![welcome](https://github.com/user-attachments/assets/d6b2b0dc-4acb-40fb-bf79-67fc218f4337)
+![welcome1](https://github.com/user-attachments/assets/159035cf-63b9-4c68-b921-7b4e4846b426)
 
 
 
