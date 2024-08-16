@@ -1,11 +1,10 @@
 # Real-Time Sign Language Translation System
-![welcome1](https://github.com/user-attachments/assets/159035cf-63b9-4c68-b921-7b4e4846b426)
 
-
+<img src="https://github.com/user-attachments/assets/159035cf-63b9-4c68-b921-7b4e4846b426" alt="welcome1" width="400"/>
 
 ## Overview
-![sign_language](https://github.com/user-attachments/assets/ccb13216-a726-4d27-97c0-029a288f42f2)
 
+<img src="https://github.com/user-attachments/assets/ccb13216-a726-4d27-97c0-029a288f42f2" alt="sign_language" width="400"/>
 
 In virtual environments, communication barriers exist for individuals who rely on sign language, limiting their ability to interact effectively with others who do not understand sign language. Our solution is a real-time sign language translation system that leverages machine learning and computer vision technologies to bridge this communication gap.
 
