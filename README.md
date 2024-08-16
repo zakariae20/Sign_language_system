@@ -11,7 +11,7 @@ In virtual environments, communication barriers exist for individuals who rely o
 This system recognizes sign language gestures and translates them into spoken or written language in real-time, enhancing accessibility and enabling inclusive communication within the metaverse. Users who rely on sign language can now fully engage and participate in virtual interactions.
 
 ## Project Path
-<img src="https://github.com/user-attachments/assets/390a0fe9-7845-4c19-861b-89992df4eb29" alt="project_path" width="500"/>
+<img src="https://github.com/user-attachments/assets/4f812fcc-c683-4ef7-913b-bfdbc0a70799" alt="project_path" width="500"/>
 
 
 
