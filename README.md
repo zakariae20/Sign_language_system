@@ -1,7 +1,5 @@
 # Real-Time Sign Language Translation System
 
-### **Inclusive Communication in the Metaverse**
-
 ## Overview
 
 In virtual environments, communication barriers exist for individuals who rely on sign language, limiting their ability to interact effectively with others who do not understand sign language. Our solution is a real-time sign language translation system that leverages machine learning and computer vision technologies to bridge this communication gap.
